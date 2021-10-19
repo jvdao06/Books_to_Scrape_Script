@@ -36,6 +36,10 @@ urllib3==1.26.7
 
 # Instructions:
 
+Initial Steps:
+
+Run $ pip install -r requirements.txt in command to install all packages necessary for the function.
+
 1.Run the book_to_scrape_script.py to run the scraping function on specified Genres
     - You can define which Genres to scrape by the URLS:
     eg. https://books.toscrape.com/catalogue/category/books/travel_2/index.html = Travel
